@@ -16,7 +16,7 @@ class Instagram:
             self.likes-=1
 
 
-reel1=Instagram("dancing","dancing with friends")
+reel1=Instagram("dancing","dancing with friends.")
 # 0
 reel1.disliked() #0
 reel1.liked() #1
